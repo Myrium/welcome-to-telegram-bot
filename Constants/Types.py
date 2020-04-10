@@ -1,0 +1,6 @@
+POOL = "Pool"
+CONSTRUCTION = "Construction"
+BIS = "Bis"
+FENCE = "Fence"
+PARK = "Park"
+REAL_ESTATE = "Real Estate"
